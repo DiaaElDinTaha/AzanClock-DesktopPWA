@@ -26,3 +26,8 @@ Use [AzanClock.com](https://azanclock.com) to display accurate prayer times and 
 
 Check out our new project **[ZakatTracker.com](https://zakattracker.com)** — a simple tool to [calculate zakat](https://zakattracker.com) and [track your zakat](https://zakattracker.com) easily. Calculate [zakat on gold](https://zakattracker.com), [zakat on 401k](https://zakattracker.com), [zakat on IRA](https://zakattracker.com), and [zakat on Roth IRA](https://zakattracker.com). Stay on top of your obligations with an accurate [zakat calculator](https://zakattracker.com) and a clean, intuitive interface.
 
+---
+This fork is meant to port the PWA into a desktop application with Electron.
+All credit goes to the beautiful brother(s) who created the beautifully elegant clock. Jazakom Allahu Khairan.
+
+Despite never having used Electron, this is my first projrct on GitHub. I'm doing this for my benefit and the Ummah.
